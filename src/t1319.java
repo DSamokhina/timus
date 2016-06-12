@@ -29,8 +29,6 @@ public class t1319 {
             allArrays.add(mas);
 
         }
-
-
         out.flush();
     }
 }
